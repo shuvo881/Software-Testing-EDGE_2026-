@@ -48,8 +48,8 @@ pytest_cache/
 .vscode/
 
 # Environment variables
-.env
-.env.*
+# .env
+# .env.*
 
 # OS files
 .DS_Store
@@ -82,6 +82,6 @@ coverage.xml
 
 # Mac/Linux hidden files
 .*.swp
-tmp/
+# tmp/
 agnoenv/
 output/
